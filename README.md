@@ -38,8 +38,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityabintoro&show_icons=true&locale=en&theme=radical" alt="adityabintoro" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityabintoro&show_icons=true&locale=en&layout=compact&theme=radical" alt="adityabintoro" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityabintoro&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=adityabintoro&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">
