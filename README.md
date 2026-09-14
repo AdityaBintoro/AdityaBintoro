@@ -35,13 +35,3 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.deno.dev/api?username=adityabintoro&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.deno.dev/api/top-langs?username=adityabintoro&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adityabintoro&theme=radical" alt="GitHub Streak" />
-</p>
