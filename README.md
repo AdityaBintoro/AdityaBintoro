@@ -11,9 +11,8 @@
 <h2>Tech Stack</h2>
 
 <p align="center">
-  <img src="techstack.svg" alt="Tech stack: HTML5, CSS3, JavaScript, Bootstrap, PHP, CodeIgniter, Python, MySQL, SQLite, Arduino, Git" width="100%" />
+  <img src="techstack.svg" alt="Tech stack" width="100%" />
 </p>
-
 <h2>Connect with Me</h2>
 
 <p align="center">
