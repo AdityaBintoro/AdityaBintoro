@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Aditya Bintoro - CS Student at Universitas Cakrawala" width="100%" />
+  <img src="banner.svg" alt="Aditya Bintoro - CS Student at Universitas Cakrawala" width="100%" />
 </p>
 
 <p align="center">
@@ -49,5 +49,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" alt="Thanks for stopping by" width="100%" />
+  <img src="footer.svg" alt="Thanks for stopping by" width="100%" />
 </p>
