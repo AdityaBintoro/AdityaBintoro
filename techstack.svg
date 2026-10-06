@@ -1,4 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 360" width="420" height="360" role="img" aria-label="Tech stack: HTML5, CSS3, JavaScript, Bootstrap, PHP, CodeIgniter, Python, MySQL, SQLite, Arduino, Git">
+<div style="max-width: 280px; width: 100%; margin: 0 auto;">
+  <!-- Kode SVG kamu di sini -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 360" style="width: 100%; height: auto;" ...>
+    ...
+  </svg>
+</div>
   <!-- Ikon: Simple Icons (CC0) dan Font Awesome Free (CC BY 4.0, ikon CSS3) -->
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
     <text x="210" y="24" font-size="18" font-weight="700" fill="#5B9BD5">Frontend</text>
