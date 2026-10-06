@@ -1,18 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Aditya Bintoro, CS Student at Universitas Cakrawala">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Aditya Bintoro, CS Student at Universitas Cakrawala">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#CFE8F3"/>
-      <stop offset="0.55" stop-color="#E6D9F5"/>
-      <stop offset="1" stop-color="#FBDDE6"/>
+      <stop offset="0" stop-color="#BFE3FF">
+        <animate attributeName="stop-color" values="#BFE3FF;#8EC5FF;#A6E1FA;#BFE3FF" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#8EC5FF">
+        <animate attributeName="stop-color" values="#8EC5FF;#A6E1FA;#A9C4FF;#8EC5FF" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#A6E1FA">
+        <animate attributeName="stop-color" values="#A6E1FA;#A9C4FF;#BFE3FF;#A6E1FA" dur="10s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
+    <clipPath id="card"><rect width="1000" height="300" rx="28"/></clipPath>
+    <clipPath id="typeclip">
+      <rect x="250" y="185" height="50" width="0">
+        <animate attributeName="width" from="0" to="500" begin="1.2s" dur="2.2s" fill="freeze"/>
+      </rect>
+    </clipPath>
   </defs>
-  <rect width="1000" height="280" rx="28" fill="url(#bg)"/>
-  <circle cx="880" cy="60" r="110" fill="#FFFFFF" opacity="0.28"/>
-  <circle cx="960" cy="230" r="80" fill="#FFFFFF" opacity="0.22"/>
-  <circle cx="90" cy="250" r="70" fill="#FFFFFF" opacity="0.2"/>
-  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle" fill="#3B4252">
-    <text x="500" y="122" font-size="56" font-weight="700">Aditya Bintoro</text>
-    <text x="500" y="168" font-size="24" fill="#55607A">CS Student at Universitas Cakrawala</text>
-    <text x="500" y="206" font-size="18" fill="#6B7590" letter-spacing="1">Tech &amp; Software Engineering Enthusiast</text>
-  </g>
-</svg>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="300" fill="url(#bg)"/>
+
+    <!-- gelembung melayang -->
+    <circle cx="140" cy="240" r="46" fill="#FFFFFF" opacity="0.25">
+      <animate attributeName="cy" values="240;195;240" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="70" r="70" fill="#FFFFFF" opacity="0.22">
+      <animate attributeName="cy" values="70;110;70" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="880;850;880" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="780" cy="250" r="34" fill="#FFFFFF" opacity="0.28">
+      <animate attributeName="cy" values="250;215;250" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="90" cy="70" r="28" fill="#FFFFFF" opacity="0.3">
+      <animate attributeName="cy" values="70;100;70" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="420" cy="270" r="20" fill="#FFFFFF" opacity="0.25">
+      <animate attributeName="cy" values="270;245;270" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+      <!-- nama: muncul dari bawah -->
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.9s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 24" to="0 0" begin="0.2s" dur="0.9s" fill="freeze"/>
+        <text x="500" y="135" font-size="60" font-weight="700" fill="#1E3A5F">Aditya Bintoro</text>
+      </g>
+
+      <!-- jurusan: efek mengetik -->
+      <g clip-path="url(#typeclip)">
+        <text x="500" y="218" font-size="24" fill="#2C4F7C">CS Student at Universitas Cakrawala</text>
+      </g>
+
+      <!-- tagline: muncul belakangan -->
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="3.4s" dur="1s" fill="freeze"/>
+        <text x="500" y="262" font-size="18" fill="#3A5F8C" letter-spacing="1">Tech &amp; Software Engineering Enthusiast</text>
