@@ -1,179 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" width="600" height="320" role="img" aria-label="Tech stack: HTML5, CSS3, JavaScript, Bootstrap, PHP, CodeIgniter, Python, MySQL, SQLite, Arduino, Git">
-  <defs>
-    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#7DB9FF"/>
-      <stop offset="1" stop-color="#4A8FE0"/>
-    </linearGradient>
-  </defs>
+<p align="center">
+  <img src="banner.svg" alt="Aditya Bintoro - CS Student at Universitas Cakrawala" width="100%" />
+</p>
 
-  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-    <!-- FRONTEND -->
-    <text x="300" y="30" font-size="18" font-weight="700" fill="#5B9BD5" text-anchor="middle" opacity="0">Frontend
-      <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.6s" fill="freeze"/>
-    </text>
+<h2>About Me</h2>
 
-    <!-- HTML5 -->
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.6s" fill="freeze"/>
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="0.15s" repeatCount="indefinite"/>
-        <rect x="14" y="44" width="134" height="48" rx="14" fill="url(#chip)"/>
-        <rect x="14" y="44" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
-        <!-- HTML5 Logo -->
-        <path d="M 28 58 L 30 76 L 37 78 L 44 76 L 46 58 Z M 41.5 62 L 32.5 62 L 32.8 66 L 41.1 66 L 40.3 73.5 L 37 74.4 L 33.7 73.5 L 33.5 70 L 30.5 70 L 30.9 76 L 37 77.7 L 43.1 76 L 44 62 Z" fill="#FFFFFF"/>
-        <text x="91" y="74" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">HTML5</text>
-      </g>
-    </g>
+<ul>
+  <li><b>Education:</b> Computer Science student at Universitas Cakrawala</li>
+  <li><b>Interests:</b> Web development, software engineering, and hardware prototyping</li>
+  <li><b>Currently:</b> Learning by building, one project at a time</li>
+</ul>
 
-    <!-- CSS3 -->
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.6s" fill="freeze"/>
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="0.30s" repeatCount="indefinite"/>
-        <rect x="160" y="44" width="134" height="48" rx="14" fill="url(#chip)"/>
-        <rect x="160" y="44" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
-        <!-- CSS3 Logo -->
-        <path d="M 174 58 L 176 76 L 183 78 L 190 76 L 192 58 Z M 188 62 L 178 62 L 178.3 66 L 187.6 66 L 186.8 73.5 L 183 74.4 L 179.2 73.5 L 179 70 L 176 70 L 176.4 76 L 183 77.7 L 189.6 76 L 190.5 62 Z" fill="#FFFFFF"/>
-        <text x="237" y="74" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">CSS3</text>
-      </g>
-    </g>
+<h2>Tech Stack</h2>
 
-    <!-- JavaScript -->
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.6s" fill="freeze"/>
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="0.45s" repeatCount="indefinite"/>
-        <rect x="306" y="44" width="134" height="48" rx="14" fill="url(#chip)"/>
-        <rect x="306" y="44" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
-        <!-- JS Icon -->
-        <rect x="318" y="57" width="22" height="22" rx="3" fill="#FFFFFF"/>
-        <text x="329" y="75" font-size="13" font-weight="800" fill="#4A8FE0" text-anchor="middle">JS</text>
-        <text x="388" y="74" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">JavaScript</text>
-      </g>
-    </g>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-    <!-- Bootstrap -->
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.6s" fill="freeze"/>
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="0.60s" repeatCount="indefinite"/>
-        <rect x="452" y="44" width="134" height="48" rx="14" fill="url(#chip)"/>
-        <rect x="452" y="44" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
-        <!-- Bootstrap B Icon -->
-        <path d="M 466 58 C 464 58 463 59 463 61 L 463 75 C 463 77 464 78 466 78 L 476 78 C 478 78 479 77 479 75 L 479 61 C 479 59 478 58 476 58 Z" fill="none" stroke="#FFFFFF" stroke-width="1.8"/>
-        <text x="471" y="73" font-size="15" font-weight="900" fill="#FFFFFF" text-anchor="middle">B</text>
-        <text x="532" y="74" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">Bootstrap</text>
-      </g>
-    </g>
+<h2>Connect with Me</h2>
 
-    <!-- BACKEND -->
-    <text x="300" y="130" font-size="18" font-weight="700" fill="#5B9BD5" text-anchor="middle" opacity="0">Backend
-      <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.6s" fill="freeze"/>
-    </text>
+<p align="center">
+  <a href="mailto:adityabintoro4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adityabintoro4%40gmail.com-5b9bd5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/adityaa_aa35" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-adityaa__aa35-4a8fe0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-    <!-- PHP -->
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.6s" fill="freeze"/>
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="0.75s" repeatCount="indefinite"/>
-        <rect x="87" y="144" width="134" height="48" rx="14" fill="url(#chip)"/>
-        <rect x="87" y="144" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
-        <!-- PHP Ellipse Icon -->
-        <ellipse cx="106" cy="168" rx="13" ry="9" fill="none" stroke="#FFFFFF" stroke-width="1.8"/>
-        <text x="106" y="172" font-size="9" font-weight="800" fill="#FFFFFF" text-anchor="middle">php</text>
-        <text x="162" y="174" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">PHP</text>
-      </g>
-    </g>
-
-    <!-- CodeIgniter -->
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.6s" fill="freeze"/>
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="0.90s" repeatCount="indefinite"/>
-        <rect x="233" y="144" width="134" height="48" rx="14" fill="url(#chip)"/>
-        <rect x="233" y="144" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
-        <!-- Flame Icon -->
-        <path d="M 248 177 C 243 174 242 168 245 163 C 246 161 248 160 248 157 C 251 160 254 163 254 167 C 254 172 251 176 248 177 Z" fill="#FFFFFF"/>
-        <text x="310" y="174" font-size="14" font-weight="600" fill="#FFFFFF" text-anchor="middle">CodeIgniter</text>
-      </g>
-    </g>
-
-    <!-- Python -->
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.6s" fill="freeze"/>
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="1.05s" repeatCount="indefinite"/>
-        <rect x="379" y="144" width="134" height="48" rx="14" fill="url(#chip)"/>
-        <rect x="379" y="144" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
-        <!-- Python Snakes Icon -->
-        <path d="M 396 157 C 392 157 390 159 390 162 L 390 165 L 396 165 L 396 166 L 388 166 C 388 170 390 172 393 172 L 395 172 L 395 170 C 395 168 397 167 399 167 L 402 167 L 402 163 C 402 159 399 157 396 157 Z M 394 159 A 1 1 0 0 1 394 161 A 1 1 0 0 1 394 159 Z" fill="#FFFFFF"/>
-        <path d="M 399 179 C 403 179 405 177 405 174 L 405 171 L 399 171 L 399 170 L 407 170 C 407 166 405 164 402 164 L 400 164 L 400 166 C 400 168 398 169 396 169 L 393 169 L 393 173 C 393 177 396 179 399 179 Z M 401 177 A 1 1 0 0 1 401 175 A 1 1 0 0 1 401 177 Z" fill="#FFFFFF" opacity="0.85"/>
-        <text x="452" y="174" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">Python</text>
-      </g>
-    </g>
-
-    <!-- DATABASE & TOOLS -->
-    <text x="300" y="230" font-size="18" font-weight="700" fill="#5B9BD5" text-anchor="middle" opacity="0">Database &amp; Tools
-      <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.6s" fill="freeze"/>
-    </text>
-
-    <!-- MySQL -->
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.6s" fill="freeze"/>
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="1.20s" repeatCount="indefinite"/>
-        <rect x="14" y="244" width="134" height="48" rx="14" fill="url(#chip)"/>
-        <rect x="14" y="244" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
-        <!-- Database Cylinder Icon -->
-        <ellipse cx="32" cy="260" rx="9" ry="3" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
-        <path d="M 23 260 L 23 274 C 23 277 41 277 41 274 L 41 260 M 23 267 C 23 270 41 270 41 267" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
-        <text x="89" y="274" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">MySQL</text>
-      </g>
-    </g>
-
-    <!-- SQLite -->
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.6s" fill="freeze"/>
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="1.35s" repeatCount="indefinite"/>
-        <rect x="160" y="244" width="134" height="48" rx="14" fill="url(#chip)"/>
-        <rect x="160" y="244" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
-        <!-- Feather / Sqlite Shell Icon -->
-        <path d="M 172 277 C 172 277 175 268 181 262 C 185 258 190 257 190 257 C 190 257 187 264 182 269 C 178 273 172 277 172 277 Z" fill="#FFFFFF"/>
-        <text x="235" y="274" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">SQLite</text>
-      </g>
-    </g>
-
-    <!-- Arduino -->
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="1.50s" dur="0.6s" fill="freeze"/>
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="1.50s" repeatCount="indefinite"/>
-        <rect x="306" y="244" width="134" height="48" rx="14" fill="url(#chip)"/>
-        <rect x="306" y="244" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
-        <!-- Infinity Loop Icon -->
-        <path d="M 320 268 C 317 264 313 264 311 268 C 309 272 313 276 316 272 L 324 264 C 327 260 331 264 329 268 C 327 272 323 272 320 268 Z" fill="none" stroke="#FFFFFF" stroke-width="1.8"/>
-        <text x="382" y="274" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">Arduino</text>
-      </g>
-    </g>
-
-    <!-- Git -->
-    <g opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="1.65s" dur="0.6s" fill="freeze"/>
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="1.65s" repeatCount="indefinite"/>
-        <rect x="452" y="244" width="134" height="48" rx="14" fill="url(#chip)"/>
-        <rect x="452" y="244" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
-        <!-- Git Branch Diamond Icon -->
-        <g transform="translate(460, 256)">
-          <rect x="0" y="0" width="14" height="14" rx="2" fill="#FFFFFF" transform="rotate(45 7 7)"/>
-          <path d="M 5 4 L 5 10 M 5 8 L 9 5" stroke="#4A8FE0" stroke-width="1.5" stroke-linecap="round"/>
-          <circle cx="5" cy="4" r="1.2" fill="#4A8FE0"/>
-          <circle cx="5" cy="10" r="1.2" fill="#4A8FE0"/>
-          <circle cx="9" cy="5" r="1.2" fill="#4A8FE0"/>
-        </g>
-        <text x="525" y="274" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="middle">Git</text>
-      </g>
-    </g>
-  </g>
-</svg>
+<p align="center">
+  <img src="footer.svg" alt="Thanks for stopping by" width="100%" />
+</p>
