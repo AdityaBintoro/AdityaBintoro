@@ -1,8 +1,6 @@
 <div style="max-width: 280px; width: 100%; margin: 0 auto;">
   <!-- Kode SVG kamu di sini -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 360" style="width: 100%; height: auto;" ...>
-    ...
-  </svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 360" style="width: 100%; height: auto;">
 </div>
   <!-- Ikon: Simple Icons (CC0) dan Font Awesome Free (CC BY 4.0, ikon CSS3) -->
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
