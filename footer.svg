@@ -1,13 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="img" aria-label="Footer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" width="1000" height="140" role="img" aria-label="Footer">
   <defs>
     <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#CFE8F3"/>
-      <stop offset="0.55" stop-color="#E6D9F5"/>
-      <stop offset="1" stop-color="#FBDDE6"/>
+      <stop offset="0" stop-color="#BFE3FF">
+        <animate attributeName="stop-color" values="#BFE3FF;#8EC5FF;#A6E1FA;#BFE3FF" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#8EC5FF">
+        <animate attributeName="stop-color" values="#8EC5FF;#A6E1FA;#A9C4FF;#8EC5FF" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#A6E1FA">
+        <animate attributeName="stop-color" values="#A6E1FA;#A9C4FF;#BFE3FF;#A6E1FA" dur="10s" repeatCount="indefinite"/>
+      </stop>
     </linearGradient>
+    <clipPath id="view"><rect width="1000" height="140"/></clipPath>
   </defs>
-  <path d="M0,60 C150,10 300,110 500,60 C700,10 850,110 1000,60 L1000,120 L0,120 Z" fill="url(#fg)"/>
-  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle" fill="#55607A" font-size="16">
-    <text x="500" y="98">Thanks for stopping by!</text>
+
+  <g clip-path="url(#view)">
+    <!-- gelombang belakang: bergerak ke kiri -->
+    <path opacity="0.55" fill="url(#fg)" d="M0,55 C125,20 375,90 500,55 C625,20 875,90 1000,55 C1125,20 1375,90 1500,55 C1625,20 1875,90 2000,55 L2000,140 L0,140 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="12s" repeatCount="indefinite"/>
+    </path>
+    <!-- gelombang depan: bergerak ke kanan -->
+    <path opacity="0.85" fill="url(#fg)" d="M0,80 C125,55 375,105 500,80 C625,55 875,105 1000,80 C1125,55 1375,105 1500,80 C1625,55 1875,105 2000,80 L2000,140 L0,140 Z">
+      <animateTransform attributeName="transform" type="translate" from="-1000 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+
+    <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle" fill="#1E3A5F" font-size="16">
+      <text x="500" y="122">Thanks for stopping by!
+        <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" repeatCount="indefinite"/>
+      </text>
+    </g>
   </g>
 </svg>
