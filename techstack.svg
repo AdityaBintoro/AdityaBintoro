@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" width="600" height="320" role="img" aria-label="Tech stack: HTML5, CSS3, JavaScript, Bootstrap, PHP, CodeIgniter, Python, MySQL, SQLite, Arduino, Git">
+  <defs>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7DB9FF"/>
+      <stop offset="1" stop-color="#4A8FE0"/>
+    </linearGradient>
+  </defs>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="300" y="30" font-size="18" font-weight="700" fill="#5B9BD5" opacity="0">Frontend
+      <animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.6s" fill="freeze"/>
+    </text>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.6s" fill="freeze"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="0.15s" repeatCount="indefinite"/>
+        <rect x="14" y="44" width="134" height="48" rx="14" fill="url(#chip)"/>
+        <rect x="14" y="44" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
+        <text x="81" y="75" font-size="18" font-weight="600" fill="#FFFFFF">HTML5</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.6s" fill="freeze"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="0.30s" repeatCount="indefinite"/>
+        <rect x="160" y="44" width="134" height="48" rx="14" fill="url(#chip)"/>
+        <rect x="160" y="44" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
+        <text x="227" y="75" font-size="18" font-weight="600" fill="#FFFFFF">CSS3</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.6s" fill="freeze"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="0.45s" repeatCount="indefinite"/>
+        <rect x="306" y="44" width="134" height="48" rx="14" fill="url(#chip)"/>
+        <rect x="306" y="44" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
+        <text x="373" y="75" font-size="18" font-weight="600" fill="#FFFFFF">JavaScript</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.6s" fill="freeze"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="0.60s" repeatCount="indefinite"/>
+        <rect x="452" y="44" width="134" height="48" rx="14" fill="url(#chip)"/>
+        <rect x="452" y="44" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
+        <text x="519" y="75" font-size="18" font-weight="600" fill="#FFFFFF">Bootstrap</text>
+      </g>
+    </g>
+    <text x="300" y="130" font-size="18" font-weight="700" fill="#5B9BD5" opacity="0">Backend
+      <animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.6s" fill="freeze"/>
+    </text>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.6s" fill="freeze"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="0.75s" repeatCount="indefinite"/>
+        <rect x="87" y="144" width="134" height="48" rx="14" fill="url(#chip)"/>
+        <rect x="87" y="144" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
+        <text x="154" y="175" font-size="18" font-weight="600" fill="#FFFFFF">PHP</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.6s" fill="freeze"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="0.90s" repeatCount="indefinite"/>
+        <rect x="233" y="144" width="134" height="48" rx="14" fill="url(#chip)"/>
+        <rect x="233" y="144" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
+        <text x="300" y="175" font-size="18" font-weight="600" fill="#FFFFFF">CodeIgniter</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.6s" fill="freeze"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="1.05s" repeatCount="indefinite"/>
+        <rect x="379" y="144" width="134" height="48" rx="14" fill="url(#chip)"/>
+        <rect x="379" y="144" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
+        <text x="446" y="175" font-size="18" font-weight="600" fill="#FFFFFF">Python</text>
+      </g>
+    </g>
+    <text x="300" y="230" font-size="18" font-weight="700" fill="#5B9BD5" opacity="0">Database &amp; Tools
+      <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.6s" fill="freeze"/>
+    </text>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.6s" fill="freeze"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="1.20s" repeatCount="indefinite"/>
+        <rect x="14" y="244" width="134" height="48" rx="14" fill="url(#chip)"/>
+        <rect x="14" y="244" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
+        <text x="81" y="275" font-size="18" font-weight="600" fill="#FFFFFF">MySQL</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.6s" fill="freeze"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="1.35s" repeatCount="indefinite"/>
+        <rect x="160" y="244" width="134" height="48" rx="14" fill="url(#chip)"/>
+        <rect x="160" y="244" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
+        <text x="227" y="275" font-size="18" font-weight="600" fill="#FFFFFF">SQLite</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.50s" dur="0.6s" fill="freeze"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="1.50s" repeatCount="indefinite"/>
+        <rect x="306" y="244" width="134" height="48" rx="14" fill="url(#chip)"/>
+        <rect x="306" y="244" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
+        <text x="373" y="275" font-size="18" font-weight="600" fill="#FFFFFF">Arduino</text>
+      </g>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.65s" dur="0.6s" fill="freeze"/>
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" begin="1.65s" repeatCount="indefinite"/>
+        <rect x="452" y="244" width="134" height="48" rx="14" fill="url(#chip)"/>
+        <rect x="452" y="244" width="134" height="24" rx="14" fill="#FFFFFF" opacity="0.18"/>
+        <text x="519" y="275" font-size="18" font-weight="600" fill="#FFFFFF">Git</text>
+      </g>
+    </g>
+  </g>
+</svg>
