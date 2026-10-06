@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/adityabintoro">
-    <img src="https://komarev.com/ghpvc/?username=adityabintoro&label=Profile%20views&color=b8a9e0&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=adityabintoro&label=Profile%20views&color=7fb3ff&style=flat-square" alt="Profile views" />
   </a>
 </p>
 
@@ -41,10 +41,10 @@
 
 <p align="center">
   <a href="mailto:adityabintoro4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-adityabintoro4%40gmail.com-b8a9e0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-adityabintoro4%40gmail.com-5b9bd5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/adityaa_aa35" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-adityaa__aa35-f4a6c0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-adityaa__aa35-4a8fe0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
