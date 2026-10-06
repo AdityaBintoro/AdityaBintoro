@@ -57,3 +57,7 @@
       <g opacity="0">
         <animate attributeName="opacity" from="0" to="1" begin="3.4s" dur="1s" fill="freeze"/>
         <text x="500" y="262" font-size="18" fill="#3A5F8C" letter-spacing="1">Tech &amp; Software Engineering Enthusiast</text>
+      </g>
+    </g>
+  </g>
+</svg>
