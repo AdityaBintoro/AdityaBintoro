@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Aditya Bintoro, CS Student at Universitas Cakrawala">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#CFE8F3"/>
+      <stop offset="0.55" stop-color="#E6D9F5"/>
+      <stop offset="1" stop-color="#FBDDE6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="280" rx="28" fill="url(#bg)"/>
+  <circle cx="880" cy="60" r="110" fill="#FFFFFF" opacity="0.28"/>
+  <circle cx="960" cy="230" r="80" fill="#FFFFFF" opacity="0.22"/>
+  <circle cx="90" cy="250" r="70" fill="#FFFFFF" opacity="0.2"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle" fill="#3B4252">
+    <text x="500" y="122" font-size="56" font-weight="700">Aditya Bintoro</text>
+    <text x="500" y="168" font-size="24" fill="#55607A">CS Student at Universitas Cakrawala</text>
+    <text x="500" y="206" font-size="18" fill="#6B7590" letter-spacing="1">Tech &amp; Software Engineering Enthusiast</text>
+  </g>
+</svg>
